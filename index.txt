@@ -1,1 +1,24 @@
-comandos en la consola
+comandos en la consola  
+sacar captura impr pant y en mis imagenes
+
+archivos en el escrittorio
+
+1)
+creando carpeta
+mkdir Silvio_Molina
+
+2)
+mv Practico1.pdf Silvio_Molina
+mv 3-Mapa-del-softwareLibre.pdf Silvio_Molina
+
+3)
+
+lo de los links
+ln -s ~/ ~/
+
+5)
+
+configuraciòn - multitareas - areas de trabajo - numero fijo de areas de trabajo
+
+6)
+
